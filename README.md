@@ -1,6 +1,6 @@
 # Shit-Cutter
 
-[img/]https://i.ibb.co/PYMc6Z1/Screenshot.png[/img]
+https://i.ibb.co/PYMc6Z1/Screenshot.png
 
 
 
