@@ -1,5 +1,9 @@
 # Shit-Cutter
 
+[img/]https://i.ibb.co/PYMc6Z1/Screenshot.png[/img]
+
+
+
 This is a program written in Python to allow video editors to speed up the Pre Cut process. It takes care of locating in the clips the most stable seconds and delete the part too moved.
 
 Python 3.8 and the libraries :
