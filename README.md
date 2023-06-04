@@ -1,5 +1,7 @@
 # Shit-Cutter
 
+![Alt text](https://github.com/dpassaggio90/Shit-Cutter/blob/main/Screenshot.png?raw=true "UI- Preview")
+https://github.com/dpassaggio90/Shit-Cutter/blob/main/Screenshot.png?raw=true
 https://i.ibb.co/PYMc6Z1/Screenshot.png
 
 
